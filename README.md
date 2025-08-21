@@ -45,8 +45,6 @@ El objetivo es **predecir la evasión de clientes (churn)** a partir del dataset
 └── requirements.txt
 
 
-> Si usas otra estructura, actualiza las rutas en el notebook.
-
 ---
 
 ## 🛠️ Tecnologías
