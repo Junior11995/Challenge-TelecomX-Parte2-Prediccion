@@ -1,6 +1,6 @@
 # 📊 Telecom X – Parte 2: Predicción de Cancelación (Churn)
 
-**Autor:** Junior11995 (Wilfredo Rojas)  
+**Autor:** Junior11995  
 **Notebook (Colab):** _(agrega tu enlace de Colab Parte 2)_  
 **Repositorio Parte 2:** https://github.com/Junior11995/Challenge-TelecomX-Parte2-Prediccion
 
