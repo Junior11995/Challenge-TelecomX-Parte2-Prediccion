@@ -90,7 +90,7 @@ El objetivo es **predecir la evasión de clientes (churn)** a partir del dataset
 
 ---
 
-## 📈 Resultados (ejemplo esperado)
+## 📈 Resultados
 - Desbalance inicial aproximado: **~74%** no churn / **~26%** churn.  
 - **Random Forest** suele ofrecer mejor **ROC-AUC** y **Recall** para la clase churn vs. LogReg.  
 - Variables influyentes típicas: **tenure**, **monthlycharges/totalcharges**, tipo de **contrato** y **servicios** (internet/soporte/streaming).
